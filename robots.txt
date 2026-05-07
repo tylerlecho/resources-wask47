@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tylerlecho.github.io/resources-wask47/sitemap.xml
